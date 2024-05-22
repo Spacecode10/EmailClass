@@ -1,0 +1,278 @@
+,content,label
+0,We are very interested in your proposal and would like to proceed with the next steps.,Interested
+2,We are interested in collaborating with you and your team.,Interested
+3,Please let us know if your company is interested in a partnership.,Interested
+5,"Let's connect soon, our team at your company is enthusiastic about your proposal and would like to move forward.",Interested
+13,"Thank you, sender name position company",Interested
+250,We reviewed your proposal and decided not to proceed.,Not Interested
+251,"We do not find this project aligning with our current goals, so we are not interested.",Not Interested
+252,We are not interested in pursuing this opportunity at the moment.,Not Interested
+253,"We have to decline your proposal at this time, best of luck with your future projects, sender name position company",Not Interested
+257,"After careful consideration, we have decided not to move forward with your proposal.",Not Interested
+500,We are committed to continuing the project and look forward to the next phase.,Modification
+501,Your company is excited to see the next phase and we would like to continue the project with the new specifications.,Modification
+502,The company is looking forward to the results of the project.,Modification
+503,The team at your company is enthusiastic about continuing the project under the new terms.,Modification
+508,Your company values your partnership and we are excited to continue our collaboration.,Modification
+750,"Thank you for your understanding, we need to end the project due to budget constraints.",Terminate Project
+751,We have decided to end the project due to unforeseen circumstances.,Terminate Project
+752,"We have to end the project immediately, thanks for your efforts.",Terminate Project
+754,"Due to budget constraints, we have decided to stop all activities related to the project.",Terminate Project
+761,We want to let you know that the project will be terminated immediately.,Terminate Project
+0,"Subject: Important Update: Changes to Project Methodologies
+
+Dear Team,
+
+I hope this message finds you well. I am writing to inform you about some important changes to our project methodologies. In order to enhance efficiency and productivity, we will be implementing new methodologies effective immediately. These changes are designed to streamline our processes and improve project outcomes. I encourage everyone to familiarize themselves with the updated methodologies and reach out if you have any questions or need clarification. Your cooperation and adaptability during this transition are greatly appreciated. Thank you for your continued dedication to our projects.
+
+Best regards,
+
+Marshall J.",Modification
+1,"Subject: Action Required: Updates to Neural Machine Translation Methodologies
+
+Dear Team,
+
+I hope this message finds you well. I am writing to inform you about the recent changes in our Neural Machine Translation methodologies. The client has requested some modifications, and it is imperative that our developer team implements these updates promptly. These changes are crucial to ensure the accuracy and efficiency of our translation processes. Your immediate attention to this matter is greatly appreciated. Please review the updated methodologies and make the necessary adjustments accordingly. Should you have any questions or need further clarification, do not hesitate to reach out. Thank you for your cooperation.
+
+Best regards,
+
+Lovish Ahuja",Modification
+2,"Subject: Transitioning Project Backend System from Flask to Django
+
+Dear Team,
+
+I hope this message finds you well. I would like to inform you about an upcoming change in our project's backend system. We have decided to transition from Flask to Django to streamline our development process and enhance scalability. This shift in methodology is aimed at empowering our developer team and ensuring a more efficient workflow. Your cooperation and support during this transition are greatly appreciated. Please feel free to reach out if you have any questions or require further clarification. Thank you for your continued dedication to the project.
+
+Best regards,
+Abhishek  Sharma
+",Modification
+3,"Subject: Implementation of Agile Methodology for Development Cycle
+
+Dear Team,
+
+I hope this email finds you well. I am writing to inform you about an important update regarding our development process. After careful consideration and feedback from our clients, we have decided to transition to using Agile methodology for our development cycle. This change is aimed at improving efficiency, collaboration, and overall project success. I trust that each of you will embrace this new approach with enthusiasm and dedication. Your cooperation and support in this transition are highly appreciated. Should you have any questions or need further clarification, please do not hesitate to reach out.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Mitali Singh",Modification
+4,"Subject: Implementing Cloud-Based Systems for Early Project Completion
+
+Dear Team,
+
+I hope this message finds you well. I am writing to inform you about a significant methodology change that will be implemented to streamline our project processes. Moving forward, we will be transitioning to cloud-based systems to enhance collaboration and efficiency between our client and developer teams. By leveraging cloud technology, we aim to accelerate project timelines and achieve early completion targets. Your cooperation and support in adapting to this new approach are crucial for the success of our projects. Please feel free to reach out if you have any questions or require further clarification.
+
+Best regards,
+Dhyana Soni",Modification
+5,"Subject: Review of Classification Algorithms for Methodology Change
+
+Dear Team,
+
+I hope this message finds you well. As part of our ongoing project, we need to review all classification algorithms to determine the best fit for our methodology change. Your expertise in this area is crucial for the success of this transition. Please take some time to thoroughly evaluate the algorithms and provide your insights on the most suitable option. Your input will be invaluable in guiding our decision-making process. Let's work together to ensure a smooth and effective transition from the client's requirements to the development team's implementation. Thank you for your dedication and commitment to this project.
+
+Best regards,
+Mit Swadas",Modification
+6,"Subject: Request for Change to Color Theme of the App
+
+Dear Developer Team,
+
+I hope this message finds you well. I am writing to bring to your attention a necessary change in the color theme of our app. As per  market trends, we believe that updating the UI with a more modern and visually appealing color scheme will enhance user experience and overall satisfaction.
+
+We kindly request your expertise and prompt action in implementing this change. Your attention to detail and technical proficiency are greatly appreciated in ensuring a seamless transition. We look forward to seeing the updated design and its positive impact on our app's performance.
+
+Thank you for your cooperation.
+
+Best regards,
+
+Nishit",Modification
+7,"Subject: Request to Change Button and Navigation Bar Positioning
+
+Dear Development Team,
+
+I hope this email finds you well. I am writing to request a change in the positioning of the buttons and navigation bar on our website. We kindly ask for your assistance in implementing these changes at your earliest convenience. Your expertise in UI design is greatly appreciated, and we trust that you will make the necessary adjustments with precision and efficiency. Thank you for your attention to this matter.
+
+Best regards,
+
+Ranbir Khanna",Modification
+8,"Subject: Request to Change NoSQL to SQL Database
+
+Dear Developer Team,
+
+I hope this message finds you well. After careful consideration and discussions with our stakeholders, we have decided to transition from using a NoSQL database to an SQL database for our project. This change is aimed at enhancing data management and improving overall performance. We understand that this transition may require adjustments in the current development process, and we appreciate your cooperation in making this switch as smooth as possible. Should you have any questions or need further clarification, please do not hesitate to reach out.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Rajendra.",Modification
+9,"Subject: Request to Add Admin Role in ERP System
+
+Dear Developer Team,
+
+We request  the addition of an admin role in our ERP system to enhance security and streamline access control. This role will have elevated privileges to manage user permissions, system configurations, and other critical functions. We believe that implementing this role will improve the overall efficiency and security of our ERP system. 
+
+We kindly request your expertise in developing and implementing this new admin role as soon as possible. Your prompt attention to this matter is greatly appreciated. Please let us know if you require any further information or clarification.
+
+Thank you for your continued support.
+
+Best regards,
+Vaishali Gupta
+[Your Name]",Modification
+0,"After careful consideration and thorough evaluation of the project's progress and its alignment with our organizational objectives, I have come to the conclusion that it is in the best interest of both parties to terminate the project and revoke all associated contracts.
+
+Several factors have contributed to this decision, including [mention any relevant issues or reasons for termination, such as budget constraints, changes in business priorities, or project scope].
+
+I understand that terminating the project at this stage may have implications for both parties, and I am committed to ensuring a smooth transition process. I propose that we schedule a meeting at your earliest convenience to discuss the termination process, including any outstanding deliverables, contractual obligations, and potential implications for both parties.",Terminate Project
+1,"After much deliberation, I have decided to terminate the current project, [Project Name], and revoke all related contracts. This decision is driven by [specific reasons, such as changes in business strategy, budget limitations, or project misalignment].
+
+I suggest we arrange a meeting to discuss the next steps and ensure a seamless transition. Your team's efforts are highly appreciated, and I look forward to future opportunities for collaboration.",Terminate Project
+2,"I am writing to inform you that we must terminate the ongoing project, [Project Name], and cancel all associated contracts. This decision stems from [specific reasons, such as shifting priorities or budget constraints].",Terminate Project
+3,"I regret to inform you that we have decided to immediately terminate the project [Project Name] and revoke all related contracts due to [specific reasons, such as resource reallocation or project feasibility concerns].
+
+Let's schedule a meeting to discuss the termination details and ensure all matters are addressed. I value the collaboration and look forward to potential future projects.",Terminate Project
+4,"This email serves as formal notice of the termination of our current project, [Project Name], and the withdrawal of all associated contracts. This decision is based on [specific reasons, such as strategic shifts or financial considerations].
+
+I propose we meet soon to discuss the transition process. Thank you for your team's dedication, and I hope for future opportunities to collaborate.",Terminate Project
+5,"After extensive review, we have decided to terminate the [Project Name] project and revoke all related contracts. This decision is due to [specific reasons, such as evolving business needs or budget issues].",Terminate Project
+6,"I am writing to formally notify you of the termination of the [Project Name] project and the revocation of all associated contracts. This decision has been made due to [specific reasons, such as organizational changes or financial constraints].",Terminate Project
+7,"This email is to inform you that we have decided to end the [Project Name] project and terminate all associated contracts. The decision is based on [specific reasons, such as priority changes or budgetary restrictions].
+
+We should meet to discuss the details of this termination and ensure a smooth conclusion. Thank you for your team's hard work, and I look forward to possible future cooperation.",Terminate Project
+8,"I regret to inform you that we must terminate the ongoing project, [Project Name], and cancel all associated contracts due to [specific reasons, such as strategic realignment or financial issues].
+
+Please let us schedule a meeting to discuss the termination and next steps. I appreciate your team's dedication and hope for future collaboration opportunities.",Terminate Project
+9,"I am writing to notify you of our decision to terminate the [Project Name] project and revoke all related contracts. This decision is driven by [specific reasons, such as new strategic directions or financial limitations].",Terminate Project
+0,"Subject: Impressed by Your Project work!
+Dear IndiaNIC,
+
+I was very impressed by your work on the [Specific Project Name] project. Your innovative approach to [mention specific aspect] is exactly what we're looking for in a development partner. We have a similar project in mind and would love to discuss potential collaboration.
+
+Best regards,
+Mit",Interested
+1,"Subject: Agile Development Expertise
+Dear Sir,
+
+We're a growing startup seeking a development team with strong Agile methodologies experience. Your case studies showcasing efficient project management through Agile really resonated with us. We'd love to explore how your expertise can benefit our upcoming project.
+
+Sincerely,
+Reena.",Interested
+2,"Subject: Inquiry for Custom Software Development
+Dear NIC,
+
+We're searching for a software development company with a proven track record in creating custom solutions. Your diverse portfolio showcases a strong ability to adapt to unique client needs. We have a complex software requirement and believe your team might be a perfect fit.
+
+Thank you,
+Vrajesh",Interested
+3,"Subject: Leveraging Your Award-Winning Work
+Dear Sir,
+
+Congratulations on your recent award for the [Specific Project Name] project! Your commitment to quality and innovation is truly inspiring.  We're interested in exploring how your award-winning expertise can be applied to our upcoming project needs.
+
+Best,
+Amy",Interested
+4,"Subject: Streamlining Our Development Process
+Dear ,
+
+Our current development process lacks efficiency.  We're particularly interested in learning more about your streamlined workflows and development tools showcased on your website.  We believe your expertise could significantly improve our development cycle.
+
+",Interested
+5,"Subject: Open Source Enthusiasts Like Us!
+
+
+We were delighted to discover your company's commitment to open-source projects.  Our team also prioritizes open-source collaboration.  We have a project requiring expertise in [specific open-source technology] and believe your team's experience would be invaluable.
+
+Best regards,
+",Interested
+6,"Subject: Building a Long-Term Development Partnership
+Dear 
+
+We're looking for a reliable development partner for our ongoing projects. Your emphasis on long-term client relationships aligns perfectly with our vision. We'd love to discuss how your development approach can contribute to our continued success.
+
+Thank you,
+",Interested
+7,"Subject: Bringing Our Mobile App Idea to Life
+Dear 
+
+We have a groundbreaking mobile app idea but lack the internal development resources. Your expertise in mobile app development is highly impressive. We'd love to discuss the feasibility of turning our idea into a reality with your team.
+
+Sincerely,
+",Interested
+8,"Subject: Scaling Our E-commerce Platform
+Our e-commerce platform is experiencing rapid growth. We need a development team with scalability expertise to ensure seamless user experience. Your proven track record in scaling e-commerce platforms caught our attention. We'd appreciate a consultation to discuss your approach.
+
+Thank you,
+",Interested
+9,"Subject: Security-Focused Development Partner
+Dear,
+Security is paramount for our upcoming project. Your emphasis on secure development practices in your case studies is very reassuring. We'd love to discuss how your security expertise can ensure the integrity of our project.
+Best regards,
+",Interested
+0,"Subject: Re: Proposal for Project
+Dear ,
+
+Thank you for your proposal. While we appreciate the effort, your development approach seems overly complex for our relatively simple project. We'll be exploring options with a focus on faster turnaround times.
+
+Sincerely,
+",Not Interested
+1,"Subject: Inquiry for Custom Development
+Dear 
+
+We reviewed your portfolio, but the projects seem geared towards larger enterprises.  Our needs are more focused on a user-friendly and cost-effective solution. We'll be continuing our search for a more suitable development partner.
+
+Thank you for your time.
+",Not Interested
+2,"Subject: Agile Concerns for Project
+Dear ,
+
+While Agile methodologies have their merits, we have specific project requirements that necessitate a more structured development approach for [Project Name]. We appreciate your focus on Agile, but it doesn't align with our current needs.
+
+Thank you,
+",Not Interested
+3,"Subject: Open Source Concerns
+Dear 
+
+While we appreciate your open-source focus, it raises concerns about long-term support and stability for our critical project, [Project Name]. We need a solution with guaranteed support and maintenance options.
+
+Sincerely,
+",Not Interested
+4,"Subject: Re: Streamlining Development Process
+Dear 
+
+Thank you for reaching out.  However, streamlining our internal development process is a priority we'll be tackling in-house.  We appreciate your expertise, but won't be needing external assistance at this time.
+
+Best regards,
+",Not Interested
+5,"Subject: Short-Term Project Needs
+Dear 
+
+We have a one-time, short-term development project with a tight budget. While your focus seems geared towards long-term partnerships, this doesn't align with our current needs. We'll be exploring options with a focus on short-term project execution.
+
+Thank you,
+",Not Interested
+6,"Subject: Mobile App Development Concerns
+Dear 
+
+Thank you for showcasing your mobile app development expertise.  However, upon closer review, your portfolio seems to lack experience with the specific mobile platform we require for our project.  We'll be continuing our search for a more specialized developer.
+
+Sincerely,
+",Not Interested
+7,"Subject: E-commerce Platform Scaling Concerns
+Dear
+
+While impressed by your e-commerce scaling experience, our specific platform utilizes a unique technology stack that may require specialized knowledge.  We'll be looking for a development team with experience in this specific technology set.
+
+Thank you,
+",Not Interested
+8,"Subject: Re: Security Practices for Project
+Dear ,
+
+Thank you for sharing your security practices. However, your case studies showcasing security focus seem geared towards different industries with varying security requirements.  We'll be pursuing developers with experience in security practices specific to our industry.
+
+Sincerely,
+",Not Interested
+9,"Subject: Re: Proposal for Project
+Dear ,
+
+Thank you for your  proposal. We appreciate the comprehensive detail. However, after internal discussions, we've decided to move forward with a more cost-effective development approach for this project.
+
+Best regards,
+",Not Interested
