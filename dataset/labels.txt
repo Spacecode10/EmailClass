@@ -1,0 +1,12 @@
+labels = [
+    "Sales, Interested",
+    "Sales, Acceptance",
+    "Sales, Price negotiation",
+    "Sales, Termination",
+    "HR, Leaves",
+    "HR, Recruitment",
+    "HR, Appraisal",
+    "Development, Modification",
+    "Development, Requirements",
+    "Development, Review"
+]
