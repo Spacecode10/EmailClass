@@ -3,7 +3,8 @@
         <title>EmailClassify</title>
     </head>
     <body>
-        <form method="POST">
+        <form method="get" action="result">
+{#            {% csrf_token %}#}
             <input type="textarea" name="email" placeholder="Enter the Email Content" required="required" />
             <input type="submit" name="submit" value="Submit" />
         </form>
