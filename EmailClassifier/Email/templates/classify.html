@@ -3,10 +3,9 @@
         <title>EmailClassify</title>
     </head>
     <body>
-    {% block content %}
-        <form method="post" action="result">
-            {% csrf_token %}
-            <input type="text" name="email" placeholder="Enter the Email Content" required="required" />
+        <form method="get" action="result">
+{#            {% csrf_token %}#}
+            <input type="textarea" name="email" placeholder="Enter the Email Content" required="required" />
             <input type="submit" name="submit" value="Submit" />
         </form>
     {% endblock %}
