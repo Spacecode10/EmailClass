@@ -17,4 +17,3 @@ class SALES(models.Model):
     id=models.ForeignKey(Main,on_delete=models.CASCADE)
     subtype=models.CharField(max_length=100)
     content = models.TextField()
-# Create your models here.
