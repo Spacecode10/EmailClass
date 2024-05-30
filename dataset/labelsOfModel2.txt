@@ -1,0 +1,5 @@
+labels = [
+   "High Priority"
+   "Low Priority"
+   "Medium Priority"
+]

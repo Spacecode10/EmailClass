@@ -77,10 +77,10 @@ WSGI_APPLICATION = "EmailClassifier.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'user',
+        'NAME': 'mit',
         'USER': 'root',
         'PASSWORD': '1234',
-        'HOST': 'DESKTOP-I513SKN',  # or the hostname where your MySQL server is running
+        'HOST': 'localhost',  # or the hostname where your MySQL server is running
         'PORT': '3307',      # or the port on which your MySQL server is listening
     }
 }
